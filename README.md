@@ -1,5 +1,5 @@
 # ⭐️commit 규칙⭐️
-  ###git commit -m “init: 초기 세팅”
+  ### git commit -m “init: 초기 세팅”
   - init: 개발 환경 초기 세팅
   - feat: 새로운 기능 추가
   - design: UI를 위한 스타일링
